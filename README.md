@@ -1,2 +1,2 @@
 # iosLifeCycleTests
-Scrap code to test the life cycle of ios screens
+Code used to test the life cycle of ios screens, figuring the logic out of lifespans of views.
